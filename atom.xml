@@ -6,7 +6,7 @@
   <link href="https://dumb-duck.github.io/atom.xml" rel="self"/>
   
   <link href="https://dumb-duck.github.io/"/>
-  <updated>2023-12-24T15:04:19.102Z</updated>
+  <updated>2023-12-25T06:44:48.538Z</updated>
   <id>https://dumb-duck.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dumb-duck.github.io/posts/bf6b.html"/>
     <id>https://dumb-duck.github.io/posts/bf6b.html</id>
     <published>2023-12-24T14:50:50.000Z</published>
-    <updated>2023-12-24T15:04:19.102Z</updated>
+    <updated>2023-12-25T06:44:48.538Z</updated>
     
     <content type="html"><![CDATA[<p>最重要的人，不想忘记，也绝对不能忘记——新海诚 《你的名字》</p>]]></content>
     
@@ -34,6 +34,8 @@
     
     
     
+    <category term="生活欢乐多" scheme="https://dumb-duck.github.io/categories/%E7%94%9F%E6%B4%BB%E6%AC%A2%E4%B9%90%E5%A4%9A/"/>
+    
     
     <category term="动漫" scheme="https://dumb-duck.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
     
@@ -44,7 +46,7 @@
     <link href="https://dumb-duck.github.io/posts/9ade.html"/>
     <id>https://dumb-duck.github.io/posts/9ade.html</id>
     <published>2023-12-24T11:18:48.000Z</published>
-    <updated>2023-12-24T14:29:01.001Z</updated>
+    <updated>2023-12-25T06:44:57.410Z</updated>
     
     <content type="html"><![CDATA[<p>阳光明媚,风光正好！！！</p>]]></content>
     
@@ -56,6 +58,8 @@
       
     
     
+    
+    <category term="生活欢乐多" scheme="https://dumb-duck.github.io/categories/%E7%94%9F%E6%B4%BB%E6%AC%A2%E4%B9%90%E5%A4%9A/"/>
     
     
     <category term="生活" scheme="https://dumb-duck.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
